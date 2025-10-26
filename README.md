@@ -8,6 +8,10 @@ This was written specifically for Omarchy installations but should work on any s
 
 * Place autostart.conf in ~/.config/hypr/
 
+### Note
+
+```If you don't want to overwrite your existing autostart configuration just copy-paste the single line from the provided file into your existing one```
+
 * In the same folder edit hyprland.conf and make sure this line is in there:
 
 ```source = ~/.config/hypr/autostart.conf```
